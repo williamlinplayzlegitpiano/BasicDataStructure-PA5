@@ -1,4 +1,5 @@
 # CSE 12 Spring 2024 PA5 - Hash Table
+## Important: Instructions taken from Paul Cao Assignments @UCSD
 
 **Due date: Thursday, May 9th @ 11:59 PM PST**
 
